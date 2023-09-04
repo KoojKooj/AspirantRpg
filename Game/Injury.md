@@ -1,3 +1,9 @@
+---
+layout: default
+title: Injury
+parent: Telling The Story
+nav_order: 2
+---
 ## Injury
 
 | Injury Type     | Immediate Effect | Become Wounded | Chance Of Death                              |

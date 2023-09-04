@@ -1,3 +1,10 @@
+---
+layout: default
+title: Combat Training
+parent: Character Development
+nav_order: 2
+has_children: true
+---
 ## Combat Training
 One of the three greater [Training](Character-Development#Types%20Of%20Training) disciplines.
 
@@ -40,7 +47,7 @@ You have access to the combat modifier Sunder. Sunder can be applied to any dama
 You receive a +1 to all skill tests involving weapons. 
 
 #### Martial Training
-You can use any martial weapons without penalty. 
+You can use any artisan weapons without penalty. 
 
 #### Strapped
 You get an additional 4 size worth of belt space.

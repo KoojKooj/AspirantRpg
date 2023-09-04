@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Session 3
 [Post-Calamity](Post-Calamity)
 
@@ -24,14 +28,14 @@
 	* [Akren](Akren) made scrap bombs using his iron
 * Traveling:
 	* [Alexander-Aurelius](Alexander-Aurelius) [Meditate](../../Activities#Meditate) + [Unsupervised Training](../../Activities#Unsupervised%20Training)
-	* [Arturas-Gabrys](Arturas-Gabrys) [Unsupervised Training](../../Activities#Unsupervised%20Training)
-	* [Akren](Akren) [Production Work](../../Activities#Production%20Work) [Evening Activity](../../Activities#Evening%20Activity)
+	* [Arturas-Gabrys](Arturas-Gabrys) [Scavenge](../../Activities#Scavenge)
+	* [Akren](Akren) [Production Work](../../Activities#Production%20Work) [Scout](../../Activities#Scout)
 	* [Vespin-Aevaris](Vespin-Aevaris) Spent 2 silver worth of reagents to fire enchant gregs spear, [Socialize](../../Activities#Socialize)
 	* [Simple-Joe](Simple-Joe) [On Watch](../../Activities#On%20Watch)
 	* [Greg-Colter](Greg-Colter) [Socialize](../../Activities#Socialize)
 
 ### Rewards
-* Telescoping baton MW Martial - [Folding](../../Weapon-Traits#Folding), 1 size [Disguised](../../Weapon-Traits#Disguised), 2 size [Lethal](../../Weapon-Traits#Lethal), Archeo-brass
+* Telescoping baton MW Artisan - [Folding](../../Weapon-Traits#Folding), 1 size [Disguised](../../Weapon-Traits#Disguised), 2 size [Lethal](../../Weapon-Traits#Lethal), Archeo-brass
 * The Generator
 * Torso is 2 size worth of Archeo-brass (exotic metal)
 * Arm is a prosthetic arm with a retractable size 2 balanced sword

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Performer
+parent: Trades Training
+grand_parent: Character Development
+nav_order: 2
+---
 ## Performer
 One of the 8 [Trades Training](Trades-Training) disciplines.
 #TODOcopy 
@@ -35,9 +42,6 @@ When an ally would be assigned a nickname, or a legend would be written, you can
 
 #### Second Identity
 You have a second identity which you can assume at any time. While pretending to be this person, you don’t need to make fib tests about their life.
-
-#### Drink For Free
-It does not cost money for you and your allies to perform the [Socialize](Activities#Socialize) [Evening Activity](Activities#Evening%20Activity).
 
 ---
 ### Advanced

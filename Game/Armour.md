@@ -1,3 +1,10 @@
+---
+layout: default
+title: Armour
+parent: Equipment
+nav_order: 2
+has_children: true
+---
 ## Armour
 Armour [Equipment](Equipment) is your character's safety net. It is designed to protect against only a small amount of high-powered attacks. However, advanced armour can be almost impervious to simpler weapons. Armour will protect certain locations on your body. A suit of armour together has shared integrity, but separate details for each location it protects on your body. Some armours will stack, such as shields and energy fields. If you have multiple valid armour sources, you can choose to use whichever you want (though only 1 per attack).
 
@@ -5,7 +12,7 @@ Armour [Equipment](Equipment) is your character's safety net. It is designed to 
 Armour is separated into 4 distinct sections. Head, Torso, Arms, Legs.
 
 ### Materials
-Armour is made of specific [materials](materials) which have 4 distinct attributes: Weakness, Resistance, Structure, Max Skill. To function as protection, a piece of armour must be made of at least Martial quality materials even if it is of a Basic design. Materials also influences which [Armour-Traits](Armour-Traits) are available for Martial and Exotic armours.
+Armour is made of specific [materials](materials) which have 4 distinct attributes: Weakness, Resistance, Structure, Max Skill. To function as protection, a piece of armour must be made of at least [Artisan](Materials#Artisan) quality materials even if it is of a Basic design. Materials also influences which [Armour-Traits](Armour-Traits) are available for Artisan and Exotic armours.
 
 #### Max Skill
 affects different locations separately and is the maximum bonus you can have on related skill tests before negatives are applied. 

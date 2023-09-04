@@ -1,3 +1,10 @@
+---
+layout: default
+title: Abjurer
+parent: Magic Training
+grand_parent: Character Development
+nav_order: 2
+---
 ## Abjurer
 One of the 8 [Magic-Training](Magic-Training) disciplines.
 

@@ -7,8 +7,16 @@
     "Duelist",
     "Cryptozoologist",
     "Herbologist",
-    "vampiric"
+    "vampiric",
+    "ichor"
   ],
   "showLineNumber": false,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 75
+  }
 }

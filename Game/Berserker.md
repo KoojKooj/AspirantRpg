@@ -1,3 +1,10 @@
+---
+layout: default
+title: Berserker
+parent: Combat Training
+grand_parent: Character Development
+nav_order: 2
+---
 ## Berserker
 One of the 8 [combat training](Combat-Training) disciplines.
 

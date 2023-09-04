@@ -1,3 +1,10 @@
+---
+layout: default
+title: Shadow
+parent: Combat Training
+grand_parent: Character Development
+nav_order: 2
+---
 ## Shadow
 One of the 8 [Combat Training](Combat-Training) disciplines.
 #TODOcopy 

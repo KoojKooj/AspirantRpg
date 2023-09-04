@@ -1,3 +1,10 @@
+---
+layout: default
+title: Hunter
+parent: Trades Training
+grand_parent: Character Development
+nav_order: 2
+---
 ## Hunter
 One of the 8 [Trades Training](Trades-Training) disciplines.
 #TODOcopy 
@@ -29,9 +36,6 @@ After inflicting an injury in melee, you can spend your [Reaction](Combat#Reacti
 
 Some enemies are not intelligent enough or just refuse to surrender under any circumstances.
 
-#### Travel the Shadows
-When [Travelling](Telling-The-Story#Travelling) and your GM rolls to see if you encounter anything you can add your [Subterfuge](Subterfuge) as a penalty to the roll.
-
 ---
 ### Advanced
 #### Certified Murderer
@@ -50,7 +54,10 @@ Your inflicted [Minimal Injury](Injury#Minimal%20Injury) cause opponents to beco
 If you are shadowing or otherwise not the centre of attention as a combat starts, you get an additional free turn before initiative starts.
 
 #### Live off the Land
-You don’t need to pay for food when [Travelling](Telling-The-Story#Travelling) for you or any animals you own.
+You can [Scavenge](Activities#Scavenge) while doing another [Travelling Activity](Activities#Travelling%20Activity).
+
+#### Travel the Shadows
+You can [Scout](Activities#Scout) while doing another [Travelling Activity](Activities#Travelling%20Activity).
 
 ---
 ### Master

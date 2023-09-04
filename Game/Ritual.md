@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ritual
+parent: Skills
+nav_order: 2
+---
 ## Ritual
 One of the [Skills](Skills) in Aspirant. 
 
@@ -15,8 +21,8 @@ Unlike with most skills, ritual is a complex field. There is a limit on what act
 > So, a character with [Amateur Abjuration](Abjurer#Amateur%20Abjuration) can at most attempt the magical feats described there, anything beyond that would be impossible. 
 
 Even with training you still need:
-* [Reagents](Resources#Reagents)
-* [Spell Book](Example-Gear#Spell%20Book)
+* [Materials](Materials)
+* [Reagent Bag](Example-Gear#Reagent%20Bag)
 
 ### Example Activities
 

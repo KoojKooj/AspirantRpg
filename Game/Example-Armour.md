@@ -1,3 +1,10 @@
+---
+layout: default
+title: Example Armour
+parent: Armour
+grand_parent: Equipment
+nav_order: 2
+---
 ## Example [Armour](Armour)
 * This list is non-exhaustive you can instead design your own [Designing-Armour](Designing-Armour).
 * Armour sells for 5 less than the listed cost.
@@ -7,7 +14,7 @@
 
 ### Politicians Plate
 *Fancy Fabrics reinforced with metal plates with stylish decals*
-Martial armour made from [Textiles](Example-Materials#Textiles) and [Simple Metals](Example-Materials#Simple%20Metals)
+Artisan armour made from [Artisan Fabric](Textiles#Artisan%20Fabric) and [Artisan Metals](Metal#Artisan%20Metals)
 
 | Cost | Max Skill | [Structure](Armour#Structure) | Weakness            | Resistance | Traits                     |
 | ---- | --------- | ----------------------------- | ------------------- | ---------- | -------------------------- |
@@ -18,7 +25,7 @@ Martial armour made from [Textiles](Example-Materials#Textiles) and [Simple Meta
 
 ### Leather
 *Simple leathers providing some meaningful protection*
-Basic armour made from [Treated Leather](Example-Materials#Treated%20Leather)
+Basic armour made from [Artisan Hide](Hide#Artisan%20Hide)
 
 | Cost | Max Skill | [Structure](Armour#Structure) | Weakness            | Resistance | Traits                     |
 | ---- | --------- | ----------------------------- | ------------------- | ---------- | -------------------------- |
@@ -28,7 +35,7 @@ Basic armour made from [Treated Leather](Example-Materials#Treated%20Leather)
 
 ### Hammered Iron
 *Simple metal hammered into functional plates providing solid protection*
-Basic armour made from [Simple Metals](Example-Materials#Simple%20Metals)
+Basic armour made from [Artisan Metals](Metal#Artisan%20Metals)
 
 | Cost | Max Skill | [Structure](Armour#Structure) | Weakness            | Resistance | Traits |
 | ---- | --------- | ----------------------------- | ------------------- | ---------- | ------ |

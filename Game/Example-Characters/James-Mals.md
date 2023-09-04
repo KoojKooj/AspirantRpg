@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## James "Scratch" Mals (He/Him)
 A down on his luck street magician, Scratch was always trying to get ahead, whether through their specialty of visual magic or more illicit activities. After a hot streak of jobs in a far away city they finally had some money to their name, but also a bounty on their head. They are halfway around the world now, the money is mostly dried up, but nobody seems interested in a bounty two oceans over.
 
@@ -23,8 +27,8 @@ Scratch is a tall [Elementalist](../Classes#Elementalist) [Rogue](../Classes#Rog
 | [Fitness](Fitness)           | STR  |       | -   | [Perception](Perception)  | INT  | 1     |
 | [Melee](Melee)               | STR  |       | -   | [Science](Science)        | INT  |       |
 | [Acrobatics](Acrobatics)     | AGI  | 2     | -   | [Composure](Composure)    | RES  | 1     |
-| [Marksmanship](Marksmanship) | AGI  | 1     | -   | [Channel](Channel)        | RES  | 2     | 
-| [Subterfuge](Subterfuge)     | AGI  |       | -   | [Ritual](Ritual)          | RES  |       |
+| [Marksmanship](Marksmanship) | AGI  |       | -   | [Channel](Channel)        | RES  | 2     |
+| [Subterfuge](Subterfuge)     | AGI  | 2     | -   | [Ritual](Ritual)          | RES  |       |
 | [Crafting](Crafting)         | INT  |       | -   | [Converse](../Converse)   | FEL  |       |
 | [Knowledge](Knowledge)       | INT  |       | -   | [Husbandry](../Husbandry) | FEL  |       |
 | [Medicine](Medicine)         | INT  |       | -   | [Perform](../Perform)     | FEL  |       |

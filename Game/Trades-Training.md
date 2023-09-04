@@ -1,3 +1,10 @@
+---
+layout: default
+title: Trades Training
+parent: Character Development
+nav_order: 2
+has_children: true
+---
 ## Trades Training
 One of the 3 greater [Training](Character-Development#Training) disciplines.
 #TODOcopy 

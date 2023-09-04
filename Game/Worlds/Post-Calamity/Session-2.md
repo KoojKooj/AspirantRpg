@@ -1,3 +1,7 @@
+---
+layout: default
+nav_exclude: true
+---
 ## Session 2
 [Post-Calamity](Post-Calamity)
 
@@ -26,7 +30,7 @@
 * The full provided an Apex Predator Bit
 
 ### Rewards
-* Apex Predator [Bits](../../Resources#Bits)
+* Apex Predator [Bits](../../Bits)
 * [Light Kit](../../Example-Gear#Light%20Kit)
 * Loaned equipment
 * 8 Silver for [Simple-Joe](Simple-Joe)

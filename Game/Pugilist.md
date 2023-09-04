@@ -1,3 +1,10 @@
+---
+layout: default
+title: Pugilist
+parent: Combat Training
+grand_parent: Character Development
+nav_order: 2
+---
 ## Pugilist
 One of the 8 [combat training](Combat-Training) disciplines.
 #TODOcopy 
