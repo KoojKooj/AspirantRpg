@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Session 1
+parent: Post Calamity
+nav_order: 1
+grand_parent: Worlds
 ---
 ## Session 1
 [Post-Calamity](Post-Calamity)
@@ -15,7 +18,7 @@ nav_exclude: true
 * Kevin one of the guys harrassing [Arturas-Gabrys](Arturas-Gabrys) flunked out of being a guard.
 * [Arturas-Gabrys](Arturas-Gabrys) got 10 silver, dealth with some forest pigmies for a local merchant.
 * Grey and brown sell swords #Unanswered in the Grand Cross.
-* One of the traveling river guilds, or Raiders from the north.
+* One of the travelling river guilds, or Raiders from the north.
 * [Vespin-Aevaris](Vespin-Aevaris) made a blade catch fire.
 * [Brindle](Crosshaven#Brindle) the barkeep, beast woman and sister run the Grand Cross.
 * [Simple-Joe](Simple-Joe) gave the others promisarry notes from the Lady.

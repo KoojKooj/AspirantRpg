@@ -2,48 +2,53 @@
 layout: default
 title: Character Development
 has_children: true
+parent: Telling The Story
 ---
 ## Character Development
-As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During downtime, you can convert XP into character development, whether it be increased skills or new training.
+As you adventure, your character will become stronger. This can happen in a number of ways. When completing quests, you will gain XP. XP in this game stands for “Experience Potential”. During [Downtime](Telling-The-Story#Downtime), you can convert XP into character development, whether it be increased skills or new training.
 
 When you rest, based on the length of the rest, you will have time which could be spent training. Spending XP to train is either a [downtime activity](Activities#Downtime%20Activity) or [travel activity](Activities#Travel%20Activity).
 
+### Learning
+Aside from inherent progression, the experts of the world have much to teach your character. As you travel you should learn everything you can spending your XP to gain new [Skills](Skills) and [Training](#Training).
+
+You can learn using:
+* [Supervised Training](Activities#Supervised%20Learning).
+* [Night Training](Activities#Night%20Learning).
+* [Socialize](Activities#Socialize).
+
+When you learn something, it will either be [Unknown](#Unknown), [In Progress](#In%20Progress), [Known](#Known).
+
+#### Requirements
+A character can’t learn from nothing. When your character desires to learn something [Unknown](#Unknown), a person needs to be paid for [Teaching](Services#Teaching), or they need a [Training Manual](Example-Gear#Training%20Manual). Either way, they will also need to have XP available to spend.
+
+#### Unknown
+A skill or training is considered unknown if you haven't spent any XP towards learning it.
+
+#### In Progress
+A skill or training is considered in progress if you have spent some XP, but not the required amount to learn it.
+
+#### Known
+A skill or training is considered known if you have spent the required XP on it. At this point you benefit from it.
+
 ### Progression
-As your characters gain [Total XP](Stats#Total%20XP) you gain additional benefits beyond your [Training](#Training).
+As your characters gain [Total XP](Stats#Total%20XP) you gain additional benefits beyond your [Learning](#Learning). These are called [Character-Milestones](Character-Milestones) and you receive them as follows:
 
-| [Total XP](Stats#Total%20XP) | Reward                                                                                                           |
-| ---------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 10                           | Increase a [Skill](Skills) by 1 rank (but not to rank 3)                                                         |
-| 15                           | Increase your [Power](Stats#Power), [Max Toxicity](Stats#Max%20Toxicity), or [Initiative](Stats#Initiative) by 1 |
-| 20                           | Increase a [Skill](Skills) by 1 rank                                                                             |
-| 25                           | Increase an [Attribute](Stats#Attributes) by 1                                                                   | 
-| 30                           | Increase a [Skill](Skills) by 1 rank                                                                             |
-
-### Costs
-Different trainings cost a different amount of XP as follows:
-
-| Advancement       | Cost |
-| ----------------- | ---- |
-| Level 1 Skill     | 2 XP |
-| Level 2 Skill     | 2 XP |
-| Level 3 Skill     | 4 XP |
-| Basic Training    | 2 XP |
-| Advanced Training | 4 XP |
-| Master Training   | 6 XP | 
-
-### Restrictions
-A character can’t learn from nothing. When your character desires to learn / improve a skill or gain training, they need to either learn from someone who already has that qualification or have a well-written manual providing details on their person. 
-
-You only need guidance to start training. If you begin training with someone but then part ways, you can on your own time finish the training. 
+| [Total XP](Stats#Total%20XP) | Reward                                                            |
+| ---------------------------- | ----------------------------------------------------------------- |
+| 10                           | [Basic Milestones](Character-Milestones#Basic%20Milestones)       |
+| 15                           | [Basic Milestones](Character-Milestones#Basic%20Milestones)       |
+| 20                           | [Basic Milestones](Character-Milestones#Basic%20Milestones)       |
+| 25                           | [Advanced Milestones](Character-Milestones#Advanced%20Milestones) |
+| 30                           | [Advanced Milestones](Character-Milestones#Advanced%20Milestones) |
+| 35                           | [Advanced Milestones](Character-Milestones#Advanced%20Milestones) | 
 
 ### Training
 Basic, advanced, and master training represents powerful new abilities that your character can learn to possess. Trainings can either be:
 * Passive - just does something all the time for you.
 * Elective - gives you a new ability/option you can use at will.
-* Power Based - Requires spending [Power](Stats#Power) to activate.
-* Per Downtime - Very powerful abilities that can only be used once before resting in a city.
-
-Training is split into 24 seperate specialized schools over 3 disciplines. Cities, heroes, and ancient tomes will be able to provide access to training.
+* Power Based - Requires spending [Power](Stats#Max%20Power) to activate.
+* Once Per Downtime - Very powerful abilities that can only be used once before resting in a city.
 
 #### Basic Level Training
 Basic training should fundamentally be known by any practitioners of the training school.
@@ -55,36 +60,22 @@ Advanced training should be known only be those with experience, but should stil
 Master level trainers should be rare and not readily available. A master should be a person of notoriety, and gaining training from them should require more than just an exchange of [Currency](Equipment#Currency).
 
 #### Types Of Training
-There are 24 traditional trainers in Aspirant. These are spread evenly over three disciplines, with 8 sub-disciplines each:
-* [Combat-Training](Combat-Training)
-	* [Bastion](Bastion)
-	* [Berserker](Berserker)
-	* [Duelist](Duelist)
-	* [Flurry](Flurry)
-	* [Keeper](Keeper)
-	* [Marksman](Marksman)
-	* [Pugilist](Pugilist)
-	* [Shadow](Shadow)
-* [Magic-Training](Magic-Training)
-	* [Abjurer](Abjurer)
-	* [Conjurer](Conjurer)
-	* [Diviner](Diviner)
-	* [Enchanter](Enchanter)
-	* [Evoker](Evoker)
-	* [Illusionist](Illusionist)
-	* [Transmuter](Transmuter)
-	* [Vitomancer](Vitomancer)
-* [Trades-Training](Trades-Training)
-	* [Chronicler](Chronicler)
-	* [Craftsman](Craftsman)
-	* [Doctor](Doctor)
-	* [Hunter](Hunter)
-	* [Leader](Leader)
-	* [Performer](Performer)
-	* [Scientist](Scientist)
-	* [Worker](Worker)
+There are a number of standard character archetypes and group archetypes you will run into in Aspirant. These will make up the bulk of training you can learn and have available. Some characters and groups will notably fit into more than one of these archetypes, in that case they could teach trainings from any school they fit into.
+* [Academic](Academic)
+* [Arcanist](Arcanist)
+* [Brawler](Brawler)
+* [Dynamist](Dynamist)
+* [Knight](Knight)
+* [Labourer](Labourer)
+* [Mercenary](Mercenary)
+* [Mystic](Mystic)
+* [Rogue](Rogue)
+* [Shaper](Shaper)
+* [Star](Star)
+* [Wanderer](Wanderer)
 
 ### Transhumanism
+#TODOtranshumanism 
 Aside from development of skills and training, a character may also as a game progresses gain abilities from elsewhere. These can take the form of enchantments/blessings, alchemical mutations, and powerful prosthetics.
 
 Mutations/enchantments are strange processes that warp the body and in some cases corrupt the mind. A character can undergo a transhumanist process during downtime.
@@ -98,9 +89,6 @@ Transhumanist processes come in a few variations. 
 
 #### Prosthetics
 Characters in Aspirant may suffer from debilitating injury. To combat this, prosthetics may be installed. Simple prosthetics do not count as transhumanist effects.
-
-#### Toxicity
-Each transhumanist affect your character has reduces your [max toxicity](Stats#Max%20Toxicity) by 1. 
 
 #### Acquiring Transhumanist Effects
 * Purchased: [Buying](#Buying)

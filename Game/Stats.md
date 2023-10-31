@@ -1,6 +1,9 @@
 ---
 layout: default
 title: Stats
+parent: How To Play
+has_children: true
+nav_order: 0
 ---
 ## Stats
 Values your character should track related to the game.
@@ -13,36 +16,15 @@ Attributes range in value from 1-5 and measure your capability to do almost anyt
 - 4 is the peak of human achievement
 - 5 is inhuman
 
-### Strength
-Measures physical power.
-- Melee Weapon Damage
-- Maximum Toxicity
-- [Fitness](Fitness), [Sport](Sport), and [Melee](Melee) [Skills](Skills)
-
-### Agility
-Measures speed and dexterity
-- How far you can move in combat
-- Initiative
-- [Acrobatics](Acrobatics), [Marksmanship](Marksmanship) and [Subterfuge](Subterfuge) [Skills](Skills)
-
-### Intelligence
-Measures mental acuity and knowledge
-- Initiative
-- [Medicine](Medicine), [Science](Science), [Crafting](Crafting), [Perception](Perception) and [Knowledge](Knowledge) [Skills](Skills)
-
-### Fellowship
-Measures charm and how well-spoken you are
-- The number of characters you can control in combat (with training)
-- [Converse](Converse), [Husbandry](Husbandry) and [Perform](Perform) [Skills](Skills)
-
-### Resolve
-Measures your resilience and willpower
-- Maximum Toxicity
-- Damage with psychic and magical abilities
-- [Channel](Channel), [Composure](Composure) and [Ritual](Ritual) [Skills](Skills)
+Your character has 5 primary attributes that dictate what they can do:
+* [Strength](Strength)
+* [Agility](Agility)
+* [Intelligence](Intelligence)
+* [Communication](Communication)
+* [Spirit](Spirit)
 
 ### Additional Attributes
-On top of the above stats, your character also has a few additional values:
+On top of the above attributes, your character also has a few additional values:
 
 #### Total XP
 An abstraction of your characters' potential to learn and gain new abilities. [Character-Development](Character-Development) has details on how to spend this.
@@ -50,16 +32,23 @@ An abstraction of your characters' potential to learn and gain new abilities. [C
 #### Spent XP
 Aspirants will not immediately spend experience as they gain it, expertise comes from the knowledge of others, so your spent XP should be tracked separately from your total.
 
-#### Power
-A stat tracking how many times you character can perform certain powerful abilities. Some [Training](Character-Development#Training) will require you to expend this resource. It can be regained using the [Good Night's Rest](Activities#Good%20Night's%20Rest) [Travel Activity](Activities#Travel%20Activity).
+#### Max Power
+A stat tracking how many times your character can perform certain powerful abilities. Some [Training](Character-Development#Training) will require you to expend this resource. It can be regained using the [Good Night's Rest](Activities#Good%20Night's%20Rest) [Travel Activity](Activities#Travel%20Activity).
 
-Power is equal to 2 + 1 per [Training](Character-Development#Training) that requires power.
+Power is equal to [Intelligence](Intelligence) + 1 per [Training](Character-Development#Training) that requires power.
 
-#### Move Speed
-How far your character can move in 1 turn of combat. [Agility](#Agility) * 4 meters.
+#### Movement Distance
+How far your character can comfortably move before suffering a penalty to actions when time is important. See [Movement](Movement) for more details.
 
-#### Initiative
-Your [Agility](Stats#Agility) + [Intelligence](Stats#Intelligence). Used to determine turn order in combat.
+Movement Distance is based on your [Agility](Agility)
+
+| Agility | Distance                |
+| ------- | ----------------------- |
+| 1       | -                       |
+| 2       | [Reach](Movement#Reach) |
+| 3       | [Close](Movement#Close) |
+| 4       | [Short](Movement#Short) |
+| 5       | [Far](Movement#Far)     |
 
 #### Threat
 The size of your largest weapon. Used to determine who unintelligent monsters target at random. 
@@ -67,14 +56,12 @@ The size of your largest weapon. Used to determine who unintelligent monsters ta
 * A character that is unarmed still has a base threat of 1. 
 * A character that is unconscious or otherwise detained should have a threat of 0.
 
-#### Max Toxicity
-Your characters can only handle a certain amount of foreign material in your body before becoming ill.
+#### Max Affinity
+When [Using Magic Items](Magic-Items#Using%20Magic%20Items) the number you can [Bind](Terminology#Bind).
 
-Characters have a Max Toxicity equal to their [Strength](Stats#Strength) + [Resolve](Stats#Resolve) attributes. Your max toxicity is reduced by 1 for any permanent enchantment, prosthetic with additional abilities, and mutation your character possesses. Whenever you imbibe an alchemical elixir or are positively affected by some form of magic your character marks a level of Toxicity when your characters Toxicity level is equal to or greater than your Max Toxicity you are considered injured.
+Affinity is equal to your [Spirit](Spirit).
 
-Toxicity resets to 0 during downtime.
-
-#### Influence
+#### Max Influence
 A measure of the influence you as a player have over the story. See [Influencing the Story](Telling-The-Story#Influencing%20the%20Story) for more details.
 
-Starts at 0 and is rewarded for contributing to the game.
+You start with [Communication](Communication) influence, and can have a maximum influence equal to [Communication](Communication).

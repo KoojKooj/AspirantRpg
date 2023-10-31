@@ -1,10 +1,13 @@
 ---
 layout: default
-nav_exclude: true
+title: Wayside
+parent: Post Calamity
+nav_order: 2
+grand_parent: Worlds
 ---
 ## Wayside
 
-Training for [Science](../../Science), and [Chronicler](../../Chronicler)
+Training for [Application](../../Intelligence#Application), and [Chronicler](../../Chronicler)
 
 Small Size 2 city,
 
@@ -15,4 +18,4 @@ Small Size 2 city,
 * Clavers, Chetin run the Patron.
 
 ### Wayside Quarry
-produces the compounds for explosives recently had a cave in [[Hooks#]]
+produces the compounds for explosives recently had a cave in 

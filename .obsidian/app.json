@@ -8,7 +8,22 @@
     "Cryptozoologist",
     "Herbologist",
     "vampiric",
-    "ichor"
+    "ichor",
+    "grappler",
+    "grapplers",
+    "Scrying",
+    "Arcanists",
+    "Elementalists",
+    "Pyromancers",
+    "Dynamancy",
+    "Dynamist",
+    "Elementalist",
+    "Caravaners",
+    "Arcanist",
+    "Shapeshifters",
+    "Brigandine",
+    "Dungeoneering",
+    "orks"
   ],
   "showLineNumber": false,
   "newLinkFormat": "relative",
@@ -18,5 +33,6 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 75
-  }
+  },
+  "focusNewTab": true
 }

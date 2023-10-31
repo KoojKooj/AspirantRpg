@@ -3,6 +3,7 @@ layout: default
 title: Adventurers
 parent: Character Creation
 nav_order: 2
+grand_parent: How To Play
 ---
 ## Adventurers
 A way to do [Character-Creation](Character-Creation).
@@ -24,7 +25,7 @@ Assign your [Attributes](Stats#Attributes) placing one of the two sets of values
 * 4,3,2,2,2
 * 3,3,3,2,2
 
-> So, 4 [Strength](Stats#Strength), 3 [Agility](Stats#Agility), 2 [Intelligence](Stats#Intelligence), 2 [Resolve](Stats#Resolve), 2 [Fellowship](Stats#Fellowship) is a valid stat line 
+> So, 4 [Strength](Strength), 3 [Agility](Agility), 2 [Intelligence](Intelligence), 2 [Spirit](Spirit), 2 [Communication](Communication) is a valid stat line 
 
 ### Determine Your Skills
 You can put 7 ranks into skills of your choice, no skill may go above rank 2.
@@ -49,7 +50,8 @@ Your characters are guaranteed to begin play with:
 You may now, with any remaining money, purchase any equipment your character desires. All equipment should be purchased at full price as though it were commissioned. If you wish to upgrade a piece of gear you were given for free, you only need to pay the difference in commissioning.
 
 You also, at any point during purchasing get 5 [Downtime Activities](Activities#Downtime%20Activity) with which you can either make money, craft equipment, or do something else relevant. They don't need to all be done at once. 
-> So you could craft an item you then buy some stuff to upgrade.
+
+> So, you could craft an item you then buy some stuff to upgrade.
 
 ### Finalize Your Character
 Finally calculate your character other [Additional Attributes](Stats#Additional%20Attributes) and make note of your items and abilities.

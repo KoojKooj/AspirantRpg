@@ -1,6 +1,9 @@
 ---
 layout: default
-nav_exclude: true
+title: Monsters
+parent: Post Calamity
+nav_order: 2
+grand_parent: Worlds
 ---
 ## Monsters
 Monsters list for [Post-Calamity](Post-Calamity)
@@ -22,7 +25,7 @@ Impact damage
 | ------ | ----- | ---- | ---------- | --------- | -------------- |
 | 3      | X     | 8    | 3          | Troop     | Rending + Life | 
 
-* If they injure causes flesh to rot for additional [Life](../../Combat#Life) damage.
+* If they injure causes flesh to rot for additional [Life](../../Injury#Life) damage.
 * Afraid of the sun / light.
 
 ### The Full
@@ -32,7 +35,7 @@ Impact damage
 | ------ | ------------ | ---- | ---------- | --------- | ------------- |
 | 5      | (melee only) | 8    | 4          | 3         | Impact + Life | 
 
-* If they injure causes flesh to rot for additional [Life](../../Combat#Life) damage
+* If they injure causes flesh to rot for additional [Life](../../Injury#Life) damage
 * On taking an injury splash necrotic ooze on a nearby space, if it lands on a [The Hungry](#The%20Hungry) it revives. If it hits a living creature they take a severe life injury to the location.
 
 ### Manticore
@@ -42,4 +45,14 @@ Powerful flying creature,
 Poisonous, paralyzing tail, rending claws, Mouth can evoke spell like effects of energy and reality disruption, Exceptionally tough hide (platemail if not more). Bit larger than a wagon, and agile.
 
 Not resistant to Heat and Slashing
+
+### Tidal Boar
+A fey / Elemental creature that is like a living Tidal Wave. Appears after rains and on riverbanks.
+
+Weak to heat damage,
+can't be harmed by physical damage
+strong forward fighter with charging
+exceptionally dangerous in water
+
+
 

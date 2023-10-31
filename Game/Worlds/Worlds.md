@@ -1,3 +1,9 @@
+---
+layout: default
+title: Worlds
+has_children: true
+nav_order: 9
+---
 ## Worlds
 
 Many stories can be told in the world of Aspirant. These are just a few of them:
